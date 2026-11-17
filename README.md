@@ -20,11 +20,13 @@ These are separate properties. Room types and facilities are not combined. Alway
 - Home — `index.html`
 - About Bodhi Hotels — `about.html`
 - Our Properties — `properties.html`
+- Collective Hotels Bodhi — `collective-hotels-bodhi.html`
+- Bodhi Boutique By Collective Select — `bodhi-boutique.html`
 - Accommodation and Room Guides — `stays.html`
 - Resort Facilities and Experiences — `experiences.html`
 - Kumbhalgarh Travel Guide — `kumbhalgarh.html`
 - Weddings and Events — `weddings.html`
-- Latest Articles — `blog.html`
+- Latest Articles — `articles.html` and `blog.html`
 - Contact — `contact.html`
 - Custom 404 — `404.html`
 
